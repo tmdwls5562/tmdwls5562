@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello I am a 24-year-old who is majoring in the Department of Information and Communication at the University of Three. My dream is to be a software developer. 👋
 
 <!--
 **tmdwls5562/tmdwls5562** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
