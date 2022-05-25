@@ -22,7 +22,4 @@ Hello I am a 24-year-old who is majoring in the Department of Information and Co
 
 
 
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/105799738/170304692-797a5b34-3192-4097-a6ed-b06d0e3a98ed.png" width="30" height="30" />@jsj_991117
-  </p>
+<p><a href="https://www.instagram.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @jsj)991117</a>
