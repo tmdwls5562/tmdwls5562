@@ -33,5 +33,6 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/105799738/170304692-797a5b34-3192-4097-a6ed-b06d0e3a98ed.png" width="30" height="30" />@jsj_991117
-  
-  [![js](http://mazassumnida.wtf/api/generate_badge?boj=jsch)](https://solved.ac/jsch)
+  </p>
+[![js](http://mazassumnida.wtf/api/generate_badge?boj=jsch)](https://solved.ac/jsch)
+<iframe width="1063" height="598" src="https://www.youtube.com/embed/XX2FPM99WaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
